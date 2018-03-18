@@ -1,7 +1,7 @@
 
 ## Exploratory data analysis week 1 project
 ##  Dataset from “Individual household electric power consumption Data Set” 
-## Plot1 
+## Plot2
 
 ## Set woring directory path
 setwd("C:/DataScience/Exploratory_DataAnalysis")
